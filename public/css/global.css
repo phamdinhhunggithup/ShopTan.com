@@ -1,0 +1,10 @@
+.container {
+    width: 1370px;
+    margin: 0 auto;
+}
+.position-relative {
+    position: relative;
+}
+.position-absolute {
+    position: absolute;
+}
